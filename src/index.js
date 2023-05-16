@@ -35,3 +35,4 @@ app.listen(app.get("port"), async () => {
     console.log("Server listening on port 3000");
   }
 });
+console.log("test");
